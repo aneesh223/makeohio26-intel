@@ -1,5 +1,7 @@
-# Subfab Drain Sentry, By Sahil Gandhi, Aneesh Jonnala, and Samanyu Vyakaranam
-**MakeOHI/O 2026 — Intel Water Challenge**
+# Subfab Drain Sentry, MakeOHI/O 2026 — Intel Challenge
+
+**By Sahil Gandhi, Aneesh Jonnala, and Samanyu Vyakaranam**
+
 **Code written by Aneesh Jonnala**
 
 Real-time semiconductor wastewater classification on a Raspberry Pi Pico 2W. Measures TDS and temperature, applies thermal compensation, and routes water to reuse, filtration, or brine management using SEMI F63 thresholds.
